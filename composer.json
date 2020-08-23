@@ -1,0 +1,21 @@
+{
+  "name": "xisrapilx/githubvknotifier",
+  "description": "Github web-hook обработчик для рассылки событий в ВК",
+  "authors": [
+    {
+      "name": "xISRAPILx",
+      "email": "israpil.akhmedov.27@gmail.com",
+      "homepage": "https://github.com/xisrapilx"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": ["src"]
+    }
+  },
+  "require": {
+    "php": "^7.3",
+    "netresearch/jsonmapper": "v3.1.0",
+    "monolog/monolog": "^2.1.1"
+  }
+}

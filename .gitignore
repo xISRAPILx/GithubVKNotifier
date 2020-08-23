@@ -1,0 +1,9 @@
+.idea
+
+config.json
+test.json
+
+composer.phar
+vendor
+
+artifact.zipp
